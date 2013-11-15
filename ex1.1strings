@@ -1,0 +1,27 @@
+%d more file%s@to edit 
+No more files@to edit 
+
+Interrupt 
+Addr1 > addr2|First address exceeds second 
+Bad count|Nonzero count required 
+No lines@in the buffer 
+No address allowed@on this command 
+Nonzero address required@on this command 
+Relocation error@- can only offset by constants 
+\& needs / or ? in address 
+Fail|Pattern not found 
+Marks are ' and a-z 
+Undefined mark@referenced 
+Negative address@- first buffer line is 1 
+Not that many lines@in buffer 
+No match to BOTTOM|Address search hit BOTTOM without matching pattern 
+No match to TOP|Address search hit TOP without matching pattern 
+Argument buffer overflow@- limit 510 characters 
+No alternate filename@to substitute for ` 
+No current filename@to substitute for %% 
+Offset out-of-bounds|Offset after command too large 
+Illegal $ in join|$join not allowed unless only one line in buffer 
+Mark what?|%s requires following letter 
+Bad mark|Mark must specify a letter 
+At EOF|At end-of-file 
+What?|Unknown command character '%c'
