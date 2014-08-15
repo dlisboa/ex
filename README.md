@@ -16,4 +16,4 @@ California copyright, however this work does not come with the famous
 With the absence of licensing it is unclear whether we are allowed to modify and
 redistribute the code.  However, it was given to The Unix Heritage Society by
 Kirk McKusick and Keith Bostic, both early BSD developers, and I assume with the
-intention that it would be freely avaiable to the world at large as a piece of the computer industry history. 
+intention that it would be freely available to the world at large as a piece of the computer industry history. 
